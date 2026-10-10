@@ -1,0 +1,1822 @@
+[
+ {
+  "id": "01_01",
+  "category": "still-life",
+  "name": "aureva-still-life-01",
+  "width": 1508,
+  "height": 1340,
+  "tw": 900,
+  "th": 800,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "01_02",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-01",
+  "width": 1524,
+  "height": 1340,
+  "tw": 900,
+  "th": 791,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "01_03",
+  "category": "macro-gemstones",
+  "name": "aureva-macro-gemstones-01",
+  "width": 1508,
+  "height": 1340,
+  "tw": 900,
+  "th": 800,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "01_04",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-02",
+  "width": 1516,
+  "height": 1340,
+  "tw": 900,
+  "th": 796,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "01_05",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-03",
+  "width": 1364,
+  "height": 1200,
+  "tw": 900,
+  "th": 792,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "01_06",
+  "category": "still-life",
+  "name": "aureva-still-life-02",
+  "width": 1164,
+  "height": 1200,
+  "tw": 873,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "01_07",
+  "category": "still-life",
+  "name": "aureva-still-life-03",
+  "width": 964,
+  "height": 1200,
+  "tw": 723,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "01_08",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-04",
+  "width": 1172,
+  "height": 1200,
+  "tw": 879,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "01_09",
+  "category": "still-life",
+  "name": "aureva-still-life-04",
+  "width": 1352,
+  "height": 1200,
+  "tw": 900,
+  "th": 799,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "01_10",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-01",
+  "width": 1240,
+  "height": 1492,
+  "tw": 748,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "01_11",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-05",
+  "width": 1084,
+  "height": 1492,
+  "tw": 654,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "01_12",
+  "category": "craftsmanship",
+  "name": "aureva-craftsmanship-01",
+  "width": 1388,
+  "height": 1492,
+  "tw": 837,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "01_13",
+  "category": "still-life",
+  "name": "aureva-still-life-05",
+  "width": 1064,
+  "height": 1492,
+  "tw": 642,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "01_14",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-06",
+  "width": 1244,
+  "height": 1492,
+  "tw": 750,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "02_01",
+  "category": "still-life",
+  "name": "aureva-still-life-06",
+  "width": 1572,
+  "height": 1492,
+  "tw": 900,
+  "th": 854,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "02_02",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-07",
+  "width": 1484,
+  "height": 1492,
+  "tw": 895,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "02_03",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-02",
+  "width": 1544,
+  "height": 1484,
+  "tw": 900,
+  "th": 865,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "02_04",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-08",
+  "width": 1468,
+  "height": 1492,
+  "tw": 886,
+  "th": 900,
+  "method": "EDSR x4"
+ },
+ {
+  "id": "02_05",
+  "category": "still-life",
+  "name": "aureva-still-life-07",
+  "width": 1360,
+  "height": 1144,
+  "tw": 900,
+  "th": 757,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "02_06",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-09",
+  "width": 1456,
+  "height": 1208,
+  "tw": 900,
+  "th": 747,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "02_07",
+  "category": "still-life",
+  "name": "aureva-still-life-08",
+  "width": 1788,
+  "height": 1212,
+  "tw": 900,
+  "th": 610,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "02_08",
+  "category": "still-life",
+  "name": "aureva-still-life-09",
+  "width": 1464,
+  "height": 1180,
+  "tw": 900,
+  "th": 725,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "02_09",
+  "category": "still-life",
+  "name": "aureva-still-life-10",
+  "width": 1356,
+  "height": 1436,
+  "tw": 850,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "02_10",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-10",
+  "width": 1628,
+  "height": 1372,
+  "tw": 900,
+  "th": 758,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "02_11",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-03",
+  "width": 1808,
+  "height": 1376,
+  "tw": 900,
+  "th": 685,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "02_12",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-11",
+  "width": 1276,
+  "height": 1400,
+  "tw": 820,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "03_01",
+  "category": "still-life",
+  "name": "aureva-still-life-11",
+  "width": 1560,
+  "height": 1432,
+  "tw": 900,
+  "th": 826,
+  "method": "EDSR x4"
+ },
+ {
+  "id": "03_02",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-12",
+  "width": 1652,
+  "height": 1432,
+  "tw": 900,
+  "th": 780,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "03_03",
+  "category": "still-life",
+  "name": "aureva-still-life-12",
+  "width": 1396,
+  "height": 1432,
+  "tw": 877,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "03_04",
+  "category": "still-life",
+  "name": "aureva-still-life-13",
+  "width": 1448,
+  "height": 1432,
+  "tw": 900,
+  "th": 890,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "03_05",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-13",
+  "width": 2112,
+  "height": 1176,
+  "tw": 900,
+  "th": 501,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "03_06",
+  "category": "still-life",
+  "name": "aureva-still-life-14",
+  "width": 1104,
+  "height": 1176,
+  "tw": 845,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "03_07",
+  "category": "macro-gemstones",
+  "name": "aureva-macro-gemstones-02",
+  "width": 1544,
+  "height": 1176,
+  "tw": 900,
+  "th": 685,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "03_08",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-14",
+  "width": 1304,
+  "height": 1176,
+  "tw": 900,
+  "th": 812,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "03_09",
+  "category": "macro-gemstones",
+  "name": "aureva-macro-gemstones-03",
+  "width": 1860,
+  "height": 1432,
+  "tw": 900,
+  "th": 693,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "03_10",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-15",
+  "width": 1304,
+  "height": 1432,
+  "tw": 820,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "03_11",
+  "category": "still-life",
+  "name": "aureva-still-life-15",
+  "width": 1284,
+  "height": 1432,
+  "tw": 807,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "03_12",
+  "category": "macro-gemstones",
+  "name": "aureva-macro-gemstones-04",
+  "width": 1608,
+  "height": 1432,
+  "tw": 900,
+  "th": 801,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "04_01",
+  "category": "still-life",
+  "name": "aureva-still-life-16",
+  "width": 1516,
+  "height": 1692,
+  "tw": 806,
+  "th": 900,
+  "method": "EDSR x4"
+ },
+ {
+  "id": "04_02",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-16",
+  "width": 1516,
+  "height": 1692,
+  "tw": 806,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "04_03",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-04",
+  "width": 1516,
+  "height": 1692,
+  "tw": 806,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "04_04",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-17",
+  "width": 1516,
+  "height": 1692,
+  "tw": 806,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "04_05",
+  "category": "still-life",
+  "name": "aureva-still-life-17",
+  "width": 1520,
+  "height": 1028,
+  "tw": 900,
+  "th": 609,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "04_06",
+  "category": "still-life",
+  "name": "aureva-still-life-18",
+  "width": 1516,
+  "height": 1028,
+  "tw": 900,
+  "th": 610,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "04_07",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-18",
+  "width": 1516,
+  "height": 1028,
+  "tw": 900,
+  "th": 610,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "04_08",
+  "category": "macro-gemstones",
+  "name": "aureva-macro-gemstones-05",
+  "width": 1516,
+  "height": 1028,
+  "tw": 900,
+  "th": 610,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "04_09",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-19",
+  "width": 1520,
+  "height": 1320,
+  "tw": 900,
+  "th": 782,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "04_10",
+  "category": "still-life",
+  "name": "aureva-still-life-19",
+  "width": 1516,
+  "height": 1320,
+  "tw": 900,
+  "th": 784,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "04_11",
+  "category": "still-life",
+  "name": "aureva-still-life-20",
+  "width": 1516,
+  "height": 1320,
+  "tw": 900,
+  "th": 784,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "04_12",
+  "category": "craftsmanship",
+  "name": "aureva-craftsmanship-02",
+  "width": 1516,
+  "height": 1320,
+  "tw": 900,
+  "th": 784,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "05_01",
+  "category": "still-life",
+  "name": "aureva-still-life-21",
+  "width": 1480,
+  "height": 2144,
+  "tw": 621,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "05_02",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-20",
+  "width": 1556,
+  "height": 2144,
+  "tw": 653,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "05_03",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-05",
+  "width": 1516,
+  "height": 2144,
+  "tw": 636,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "05_04",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-21",
+  "width": 1464,
+  "height": 2144,
+  "tw": 615,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "05_05",
+  "category": "still-life",
+  "name": "aureva-still-life-22",
+  "width": 1280,
+  "height": 1904,
+  "tw": 605,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "05_06",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-22",
+  "width": 1012,
+  "height": 1904,
+  "tw": 478,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "05_07",
+  "category": "still-life",
+  "name": "aureva-still-life-23",
+  "width": 1192,
+  "height": 1904,
+  "tw": 563,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "05_08",
+  "category": "still-life",
+  "name": "aureva-still-life-24",
+  "width": 1224,
+  "height": 1904,
+  "tw": 579,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "05_09",
+  "category": "craftsmanship",
+  "name": "aureva-craftsmanship-03",
+  "width": 1276,
+  "height": 1904,
+  "tw": 603,
+  "th": 900,
+  "method": "EDSR x4"
+ },
+ {
+  "id": "06_01",
+  "category": "still-life",
+  "name": "aureva-still-life-25",
+  "width": 1324,
+  "height": 1464,
+  "tw": 814,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "06_02",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-23",
+  "width": 1232,
+  "height": 1464,
+  "tw": 757,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "06_03",
+  "category": "still-life",
+  "name": "aureva-still-life-26",
+  "width": 1108,
+  "height": 1464,
+  "tw": 681,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "06_04",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-06",
+  "width": 1088,
+  "height": 1464,
+  "tw": 669,
+  "th": 900,
+  "method": "EDSR x4"
+ },
+ {
+  "id": "06_05",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-24",
+  "width": 1272,
+  "height": 1464,
+  "tw": 782,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "06_06",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-07",
+  "width": 1284,
+  "height": 1204,
+  "tw": 900,
+  "th": 844,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "06_07",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-25",
+  "width": 1092,
+  "height": 1204,
+  "tw": 816,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "06_08",
+  "category": "still-life",
+  "name": "aureva-still-life-27",
+  "width": 1460,
+  "height": 1204,
+  "tw": 900,
+  "th": 742,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "06_09",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-26",
+  "width": 924,
+  "height": 1204,
+  "tw": 691,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "06_10",
+  "category": "still-life",
+  "name": "aureva-still-life-28",
+  "width": 1272,
+  "height": 1204,
+  "tw": 900,
+  "th": 852,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "06_11",
+  "category": "still-life",
+  "name": "aureva-still-life-29",
+  "width": 1288,
+  "height": 1364,
+  "tw": 850,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "06_12",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-27",
+  "width": 1272,
+  "height": 1364,
+  "tw": 839,
+  "th": 900,
+  "method": "EDSR x4"
+ },
+ {
+  "id": "06_13",
+  "category": "still-life",
+  "name": "aureva-still-life-30",
+  "width": 1128,
+  "height": 1364,
+  "tw": 744,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "06_14",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-28",
+  "width": 1112,
+  "height": 1364,
+  "tw": 734,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "06_15",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-08",
+  "width": 1224,
+  "height": 1364,
+  "tw": 808,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "07_01",
+  "category": "still-life",
+  "name": "aureva-still-life-31",
+  "width": 1580,
+  "height": 1372,
+  "tw": 900,
+  "th": 782,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "07_02",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-29",
+  "width": 1612,
+  "height": 1372,
+  "tw": 900,
+  "th": 766,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "07_03",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-09",
+  "width": 1440,
+  "height": 1372,
+  "tw": 900,
+  "th": 858,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "07_04",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-10",
+  "width": 1416,
+  "height": 1372,
+  "tw": 900,
+  "th": 872,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "07_05",
+  "category": "still-life",
+  "name": "aureva-still-life-32",
+  "width": 1728,
+  "height": 1276,
+  "tw": 900,
+  "th": 665,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "07_06",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-30",
+  "width": 1496,
+  "height": 1276,
+  "tw": 900,
+  "th": 768,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "07_07",
+  "category": "still-life",
+  "name": "aureva-still-life-33",
+  "width": 1492,
+  "height": 1276,
+  "tw": 900,
+  "th": 770,
+  "method": "EDSR x4"
+ },
+ {
+  "id": "07_08",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-31",
+  "width": 1332,
+  "height": 1276,
+  "tw": 900,
+  "th": 862,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "07_09",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-11",
+  "width": 1488,
+  "height": 1380,
+  "tw": 900,
+  "th": 835,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "07_10",
+  "category": "still-life",
+  "name": "aureva-still-life-34",
+  "width": 1500,
+  "height": 1380,
+  "tw": 900,
+  "th": 828,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "07_11",
+  "category": "craftsmanship",
+  "name": "aureva-craftsmanship-04",
+  "width": 1524,
+  "height": 1380,
+  "tw": 900,
+  "th": 815,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "07_12",
+  "category": "still-life",
+  "name": "aureva-still-life-35",
+  "width": 1536,
+  "height": 1380,
+  "tw": 900,
+  "th": 809,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "08_01",
+  "category": "still-life",
+  "name": "aureva-still-life-36",
+  "width": 1524,
+  "height": 1536,
+  "tw": 893,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "08_02",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-32",
+  "width": 1512,
+  "height": 1536,
+  "tw": 886,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "08_03",
+  "category": "still-life",
+  "name": "aureva-still-life-37",
+  "width": 1512,
+  "height": 1536,
+  "tw": 886,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "08_04",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-33",
+  "width": 1508,
+  "height": 1536,
+  "tw": 884,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "08_05",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-12",
+  "width": 1524,
+  "height": 1216,
+  "tw": 900,
+  "th": 718,
+  "method": "EDSR x4"
+ },
+ {
+  "id": "08_06",
+  "category": "macro-gemstones",
+  "name": "aureva-macro-gemstones-06",
+  "width": 1512,
+  "height": 1216,
+  "tw": 900,
+  "th": 724,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "08_07",
+  "category": "still-life",
+  "name": "aureva-still-life-38",
+  "width": 1644,
+  "height": 1216,
+  "tw": 900,
+  "th": 666,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "08_08",
+  "category": "still-life",
+  "name": "aureva-still-life-39",
+  "width": 1376,
+  "height": 1216,
+  "tw": 900,
+  "th": 795,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "08_09",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-34",
+  "width": 1524,
+  "height": 1280,
+  "tw": 900,
+  "th": 756,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "08_10",
+  "category": "still-life",
+  "name": "aureva-still-life-40",
+  "width": 1512,
+  "height": 1280,
+  "tw": 900,
+  "th": 762,
+  "method": "EDSR x4"
+ },
+ {
+  "id": "08_11",
+  "category": "still-life",
+  "name": "aureva-still-life-41",
+  "width": 1644,
+  "height": 1280,
+  "tw": 900,
+  "th": 701,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "08_12",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-13",
+  "width": 1376,
+  "height": 1280,
+  "tw": 900,
+  "th": 837,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "09_01",
+  "category": "still-life",
+  "name": "aureva-still-life-42",
+  "width": 1372,
+  "height": 1376,
+  "tw": 897,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "09_02",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-35",
+  "width": 1112,
+  "height": 1376,
+  "tw": 727,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "09_03",
+  "category": "macro-gemstones",
+  "name": "aureva-macro-gemstones-07",
+  "width": 1052,
+  "height": 1376,
+  "tw": 688,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "09_04",
+  "category": "still-life",
+  "name": "aureva-still-life-43",
+  "width": 1112,
+  "height": 1376,
+  "tw": 727,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "09_05",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-36",
+  "width": 1348,
+  "height": 1376,
+  "tw": 882,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "09_06",
+  "category": "still-life",
+  "name": "aureva-still-life-44",
+  "width": 1308,
+  "height": 1184,
+  "tw": 900,
+  "th": 815,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "09_07",
+  "category": "macro-gemstones",
+  "name": "aureva-macro-gemstones-08",
+  "width": 1128,
+  "height": 1184,
+  "tw": 857,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "09_08",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-37",
+  "width": 1140,
+  "height": 1184,
+  "tw": 867,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "09_09",
+  "category": "still-life",
+  "name": "aureva-still-life-45",
+  "width": 1184,
+  "height": 1184,
+  "tw": 900,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "09_10",
+  "category": "still-life",
+  "name": "aureva-still-life-46",
+  "width": 1244,
+  "height": 1184,
+  "tw": 900,
+  "th": 857,
+  "method": "EDSR x4"
+ },
+ {
+  "id": "09_11",
+  "category": "still-life",
+  "name": "aureva-still-life-47",
+  "width": 1204,
+  "height": 1464,
+  "tw": 740,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "09_12",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-38",
+  "width": 1088,
+  "height": 1464,
+  "tw": 669,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "09_13",
+  "category": "still-life",
+  "name": "aureva-still-life-48",
+  "width": 1124,
+  "height": 1464,
+  "tw": 691,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "09_14",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-39",
+  "width": 1160,
+  "height": 1464,
+  "tw": 713,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "09_15",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-14",
+  "width": 1428,
+  "height": 1464,
+  "tw": 878,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "10_01",
+  "category": "still-life",
+  "name": "aureva-still-life-49",
+  "width": 1448,
+  "height": 1336,
+  "tw": 900,
+  "th": 830,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "10_02",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-40",
+  "width": 1308,
+  "height": 1532,
+  "tw": 768,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "10_03",
+  "category": "still-life",
+  "name": "aureva-still-life-50",
+  "width": 1480,
+  "height": 1532,
+  "tw": 869,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "10_04",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-15",
+  "width": 1832,
+  "height": 1532,
+  "tw": 900,
+  "th": 753,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "10_05",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-41",
+  "width": 1244,
+  "height": 940,
+  "tw": 900,
+  "th": 680,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "10_06",
+  "category": "still-life",
+  "name": "aureva-still-life-51",
+  "width": 1212,
+  "height": 1124,
+  "tw": 900,
+  "th": 835,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "10_07",
+  "category": "macro-gemstones",
+  "name": "aureva-macro-gemstones-09",
+  "width": 1132,
+  "height": 1124,
+  "tw": 900,
+  "th": 894,
+  "method": "EDSR x4"
+ },
+ {
+  "id": "10_08",
+  "category": "still-life",
+  "name": "aureva-still-life-52",
+  "width": 1248,
+  "height": 1124,
+  "tw": 900,
+  "th": 811,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "10_09",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-42",
+  "width": 1212,
+  "height": 1124,
+  "tw": 900,
+  "th": 835,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "10_10",
+  "category": "still-life",
+  "name": "aureva-still-life-53",
+  "width": 1244,
+  "height": 1416,
+  "tw": 791,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "10_11",
+  "category": "still-life",
+  "name": "aureva-still-life-54",
+  "width": 1232,
+  "height": 1416,
+  "tw": 783,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "10_12",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-43",
+  "width": 1304,
+  "height": 1416,
+  "tw": 829,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "10_13",
+  "category": "still-life",
+  "name": "aureva-still-life-55",
+  "width": 1120,
+  "height": 1416,
+  "tw": 712,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "10_14",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-44",
+  "width": 1148,
+  "height": 1416,
+  "tw": 730,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "11_01",
+  "category": "still-life",
+  "name": "aureva-still-life-56",
+  "width": 1240,
+  "height": 1456,
+  "tw": 766,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "11_02",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-45",
+  "width": 1256,
+  "height": 1456,
+  "tw": 776,
+  "th": 900,
+  "method": "EDSR x4"
+ },
+ {
+  "id": "11_03",
+  "category": "still-life",
+  "name": "aureva-still-life-57",
+  "width": 1264,
+  "height": 1456,
+  "tw": 781,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "11_04",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-46",
+  "width": 1152,
+  "height": 1456,
+  "tw": 712,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "11_05",
+  "category": "still-life",
+  "name": "aureva-still-life-58",
+  "width": 1136,
+  "height": 1456,
+  "tw": 702,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "11_06",
+  "category": "still-life",
+  "name": "aureva-still-life-59",
+  "width": 1240,
+  "height": 1220,
+  "tw": 900,
+  "th": 885,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "11_07",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-47",
+  "width": 1280,
+  "height": 1220,
+  "tw": 900,
+  "th": 858,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "11_08",
+  "category": "still-life",
+  "name": "aureva-still-life-60",
+  "width": 1236,
+  "height": 1220,
+  "tw": 900,
+  "th": 888,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "11_09",
+  "category": "still-life",
+  "name": "aureva-still-life-61",
+  "width": 1152,
+  "height": 1220,
+  "tw": 850,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "11_10",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-16",
+  "width": 1136,
+  "height": 1220,
+  "tw": 838,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "11_11",
+  "category": "craftsmanship",
+  "name": "aureva-craftsmanship-05",
+  "width": 1240,
+  "height": 1364,
+  "tw": 818,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "11_12",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-17",
+  "width": 1192,
+  "height": 1364,
+  "tw": 787,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "11_13",
+  "category": "still-life",
+  "name": "aureva-still-life-62",
+  "width": 1264,
+  "height": 1364,
+  "tw": 834,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "11_14",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-48",
+  "width": 1184,
+  "height": 1364,
+  "tw": 781,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "11_15",
+  "category": "still-life",
+  "name": "aureva-still-life-63",
+  "width": 1168,
+  "height": 1364,
+  "tw": 771,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "12_01",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-18",
+  "width": 1328,
+  "height": 1448,
+  "tw": 825,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "12_02",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-49",
+  "width": 1152,
+  "height": 1448,
+  "tw": 716,
+  "th": 900,
+  "method": "EDSR x4"
+ },
+ {
+  "id": "12_03",
+  "category": "still-life",
+  "name": "aureva-still-life-64",
+  "width": 1148,
+  "height": 1448,
+  "tw": 714,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "12_04",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-50",
+  "width": 1124,
+  "height": 1448,
+  "tw": 699,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "12_05",
+  "category": "still-life",
+  "name": "aureva-still-life-65",
+  "width": 1276,
+  "height": 1448,
+  "tw": 793,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "12_06",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-19",
+  "width": 1244,
+  "height": 1128,
+  "tw": 900,
+  "th": 816,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "12_07",
+  "category": "still-life",
+  "name": "aureva-still-life-66",
+  "width": 1176,
+  "height": 1128,
+  "tw": 900,
+  "th": 863,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "12_08",
+  "category": "macro-gemstones",
+  "name": "aureva-macro-gemstones-10",
+  "width": 1172,
+  "height": 1128,
+  "tw": 900,
+  "th": 866,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "12_09",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-51",
+  "width": 1156,
+  "height": 1128,
+  "tw": 900,
+  "th": 878,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "12_10",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-52",
+  "width": 1276,
+  "height": 1128,
+  "tw": 900,
+  "th": 796,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "12_11",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-53",
+  "width": 1216,
+  "height": 1456,
+  "tw": 752,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "12_12",
+  "category": "still-life",
+  "name": "aureva-still-life-67",
+  "width": 1228,
+  "height": 1456,
+  "tw": 759,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "12_13",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-54",
+  "width": 1200,
+  "height": 1456,
+  "tw": 742,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "12_14",
+  "category": "still-life",
+  "name": "aureva-still-life-68",
+  "width": 1132,
+  "height": 1456,
+  "tw": 700,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "12_15",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-20",
+  "width": 1248,
+  "height": 1456,
+  "tw": 771,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "13_01",
+  "category": "still-life",
+  "name": "aureva-still-life-69",
+  "width": 1640,
+  "height": 1460,
+  "tw": 900,
+  "th": 801,
+  "method": "EDSR x4"
+ },
+ {
+  "id": "13_02",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-55",
+  "width": 1580,
+  "height": 1460,
+  "tw": 900,
+  "th": 832,
+  "method": "EDSR x4"
+ },
+ {
+  "id": "13_03",
+  "category": "still-life",
+  "name": "aureva-still-life-70",
+  "width": 1532,
+  "height": 1460,
+  "tw": 900,
+  "th": 858,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "13_04",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-21",
+  "width": 1316,
+  "height": 1460,
+  "tw": 811,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "13_05",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-56",
+  "width": 1640,
+  "height": 1268,
+  "tw": 900,
+  "th": 696,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "13_06",
+  "category": "still-life",
+  "name": "aureva-still-life-71",
+  "width": 1556,
+  "height": 1268,
+  "tw": 900,
+  "th": 733,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "13_07",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-57",
+  "width": 1712,
+  "height": 1268,
+  "tw": 900,
+  "th": 667,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "13_08",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-58",
+  "width": 1160,
+  "height": 1268,
+  "tw": 823,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "13_09",
+  "category": "still-life",
+  "name": "aureva-still-life-72",
+  "width": 1208,
+  "height": 1344,
+  "tw": 809,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "13_10",
+  "category": "still-life",
+  "name": "aureva-still-life-73",
+  "width": 1396,
+  "height": 1344,
+  "tw": 900,
+  "th": 866,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "13_11",
+  "category": "still-life",
+  "name": "aureva-still-life-74",
+  "width": 1516,
+  "height": 1344,
+  "tw": 900,
+  "th": 798,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "13_12",
+  "category": "craftsmanship",
+  "name": "aureva-craftsmanship-06",
+  "width": 1636,
+  "height": 1344,
+  "tw": 900,
+  "th": 739,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "14_01",
+  "category": "macro-gemstones",
+  "name": "aureva-macro-gemstones-11",
+  "width": 1460,
+  "height": 1628,
+  "tw": 807,
+  "th": 900,
+  "method": "EDSR x4"
+ },
+ {
+  "id": "14_02",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-59",
+  "width": 1536,
+  "height": 1628,
+  "tw": 849,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "14_03",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-22",
+  "width": 1440,
+  "height": 1628,
+  "tw": 796,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "14_04",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-60",
+  "width": 1568,
+  "height": 1628,
+  "tw": 867,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "14_05",
+  "category": "still-life",
+  "name": "aureva-still-life-75",
+  "width": 1636,
+  "height": 976,
+  "tw": 900,
+  "th": 537,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "14_06",
+  "category": "still-life",
+  "name": "aureva-still-life-76",
+  "width": 1312,
+  "height": 972,
+  "tw": 900,
+  "th": 667,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "14_07",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-61",
+  "width": 1488,
+  "height": 976,
+  "tw": 900,
+  "th": 590,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "14_08",
+  "category": "macro-gemstones",
+  "name": "aureva-macro-gemstones-12",
+  "width": 1568,
+  "height": 972,
+  "tw": 900,
+  "th": 558,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "14_09",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-23",
+  "width": 1464,
+  "height": 1400,
+  "tw": 900,
+  "th": 861,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "14_10",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-62",
+  "width": 736,
+  "height": 1400,
+  "tw": 473,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "14_11",
+  "category": "nature-inspired",
+  "name": "aureva-nature-inspired-24",
+  "width": 1408,
+  "height": 1400,
+  "tw": 900,
+  "th": 895,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "14_12",
+  "category": "craftsmanship",
+  "name": "aureva-craftsmanship-07",
+  "width": 1228,
+  "height": 1400,
+  "tw": 789,
+  "th": 900,
+  "method": "FSRCNN x4"
+ },
+ {
+  "id": "14_13",
+  "category": "worn-by-models",
+  "name": "aureva-worn-by-models-63",
+  "width": 1124,
+  "height": 1400,
+  "tw": 723,
+  "th": 900,
+  "method": "FSRCNN x4"
+ }
+]
